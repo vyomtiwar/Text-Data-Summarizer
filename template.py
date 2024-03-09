@@ -22,10 +22,12 @@ list_of_files = [
     "config/config.yaml",
     "params.yaml",    # it contains model related parameters
     "app.yaml",
+    "app.py",
     "main.py",
     "Dockerfile",
     "requirements.txt",
-    "research/trials.ipynb"          #it contains all the notebook expriements
+    "setup.py",
+    "research/trials.ipynb",          #it contains all the notebook expriements
 ]
 
  
